@@ -35,7 +35,7 @@ A simple and fun web app that lets you explore random **cat facts** and **dog im
 Are you team dog or team cat?  
 Either way, we’ve got something purr-fect for you!
 
-🌐 [Furry friends api website](https://codebyswatii.github.io/-Simon-Says-Challenge/)  
+🌐 [Furry friends api website](https://codebyswatii.github.io/Furry-friends-api/)  
 
 ## 📩 Feedback
 
@@ -45,7 +45,6 @@ If you have suggestions or feedback, feel free to reach out or open an issue.
 
 👩‍💻 Built with 💙 by [Swati Thakur](https://github.com/codebyswatii)
 
-<!-- Trigger GitHub Pages rebuild -->
 
 
 
